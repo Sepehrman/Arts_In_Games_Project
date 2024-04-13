@@ -1,5 +1,0 @@
-Considerations
-
-Used an external 3d model. Model is textured for performance reasons
-
-I am using a particle system that spreads the grass across the ground. Then using the weight pain I am removing the redundant foliage from the ground to prevent the rendering delays & stuttering
